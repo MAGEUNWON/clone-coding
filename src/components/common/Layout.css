@@ -1,0 +1,22 @@
+.header {
+  position:relative;
+  top : 2rem;
+  left: 7rem;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 310px 310px 310px;
+  justify-content: center;
+  align-items: center;
+}
+.item {
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.icons {
+  margin-left: 10px;
+}
+.icon {
+  margin-right: 10px;
+}
